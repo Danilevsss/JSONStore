@@ -1,0 +1,58 @@
+[
+  {
+    "image":"https://github.com/Danilevsss/JSONStore/blob/main/details_item_2.png",
+    "title":"Nike Elite Pro",
+    "subtitle":"Basketball Backpack (32L) 3 Colours",
+    "price":85.00,
+    "soldout":true
+  },
+  {
+    "image":"https://github.com/Danilevsss/JSONStore/blob/main/details_item_6.png",
+    "title":"Nike Heritage",
+    "subtitle":"Basketball Backpack (32L) 4 Colours",
+    "price":40.97,
+    "soldout":false
+  },
+  {
+    "image":"https://github.com/Danilevsss/JSONStore/blob/main/details_item_4.png",
+    "title":"Item 3",
+    "subtitle":"Men Fleece Pullover Hoodie 5 Colours",
+    "price":99.99,
+    "soldout":false
+  },
+  {
+    "image":"https://github.com/Danilevsss/JSONStore/blob/main/details_item_3.png",
+    "title":"Item 4",
+    "subtitle":"Men Fleece Pullover Hoodie 5 Colours",
+    "price":99.99,
+    "soldout":true
+  },
+  {
+    "image":"https://github.com/Danilevsss/JSONStore/blob/main/details_item_1.png",
+    "title":"Jordan Essentials",
+    "subtitle":"Men Fleece Pullover Hoodie 5 Colours",
+    "price":60.00,
+    "soldout":false
+  },
+  {
+    "image":"https://github.com/Danilevsss/JSONStore/blob/main/details_item_8.png",
+    "title":"Jordan Essentials",
+    "subtitle":"Men Fleece Pullover 6 Colours",
+    "price":60.00,
+    "soldout":false
+  },
+  {
+    "image":"https://github.com/Danilevsss/JSONStore/blob/main/details_item_5.png",
+    "title":"Item 7",
+    "subtitle":"Men Fleece Pullover Hoodie 5 Colours",
+    "price":99.99,
+    "soldout":true
+  },
+  {
+    "image":"https://github.com/Danilevsss/JSONStore/blob/main/details_item_7.png",
+    "title":"Item 8",
+    "subtitle":"Men Fleece Pullover Hoodie 5 Colours",
+    "price":99.99,
+    "soldout":false
+  }
+]
